@@ -4,6 +4,7 @@ Major Updates of [Rugby News Board](http://www.rugbynews.space/)
 
 [简体中文](README_zhCN.md)
 
+* 2017-08-24: News Search
 * 2017-08-04: Change PRO12 to PRO14
 * 2017-07-23: Redesign theme with [Open-color](https://yeun.github.io/open-color/)
 * 2017-07-05: Newsletter

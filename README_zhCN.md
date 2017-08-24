@@ -4,6 +4,7 @@
 
 [英文](README.md)
 
+* 2017-08-24: 新闻检索
 * 2017-08-04: PRO12 更名为 PRO14
 * 2017-07-23: 基于 [Open-color](https://yeun.github.io/open-color/) 配色重新设计主题
 * 2017-07-05: 邮件订阅新闻
