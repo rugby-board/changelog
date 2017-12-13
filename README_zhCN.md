@@ -2,8 +2,9 @@
 
 [Rugby News Board](http://www.rugbynews.space/) 主要更新
 
-[英文](README.md)
+[English](README.md)
 
+* 2017-12-11: 改进 UI 主题
 * 2017-08-24: 新闻检索
 * 2017-08-22: 相关新闻推荐
 * 2017-08-04: PRO12 更名为 PRO14
