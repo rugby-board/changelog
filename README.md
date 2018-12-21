@@ -4,6 +4,7 @@ Major Updates of [Rugby News Board](http://www.rugbynews.space/)
 
 [简体中文](README_zhCN.md)
 
+* 2018-12-21: ~~Newsletter~~
 * 2017-12-11: Refined UI theme
 * 2017-08-24: News Search
 * 2017-08-22: News Recommendation
